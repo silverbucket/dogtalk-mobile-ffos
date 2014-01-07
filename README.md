@@ -1,4 +1,7 @@
-dogtalk-view-mobile
+dogtalk-mobile-ffos
 ===================
 
-FirefoxOS Building Blocks view for Dogtalk
+FirefoxOS skin for Dogtalk.
+
+Uses Building Blocks, and AngularJS.
+
