@@ -1,0 +1,3 @@
+[submodule "vendor/building-blocks"]
+	path = vendor/building-blocks
+	url = git@github.com:buildingfirefoxos/Building-Blocks.git
